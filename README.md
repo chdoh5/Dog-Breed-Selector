@@ -2,6 +2,8 @@
 
 A CLI application for querying, editing, and interacting with information on different dog breeds based on breed attributes and size.  Solo project.
 
+![](search_demo.gif)
+
 ## Built With...
 
 - <a href="https://www.ruby-lang.org/en/">Ruby</a>
