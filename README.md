@@ -35,6 +35,9 @@ A CLI application for querying, editing, and interacting with information on dif
         sorted_breeds_based_on_votes = sorted.map{|breeds| breeds.name}
     end 
 ```
+
+![](weight_demo.gif)
+
 ### Weight Search
 
 ```ruby
